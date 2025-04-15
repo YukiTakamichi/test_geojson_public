@@ -1,0 +1,24 @@
+{
+    "name": "Test Visualization",
+    "organization": "M",
+    "description": "M's Test Visualization",
+    "logoUrl": "https://storage.googleapis.com/customvisdata/logo.png",
+    "supportUrl": "https://url",
+    "packageUrl": "https://url",
+    "devMode": true,
+    "components": [
+      {
+        "id": "polygon",
+        "name": "Polygon",
+        "description": "polygon with filter interactions",
+        "iconUrl": "https://storage.googleapis.com/customvisdata/logo.png",
+        "resource": {
+          "js": "gs://customvisdata/index.js",
+          "config": "gs://customvisdata/config.json",
+          "css": "gs://customvisdata/index.css"
+        }
+      }
+    ]
+  }
+
+  
