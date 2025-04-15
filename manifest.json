@@ -13,9 +13,9 @@
         "description": "polygon with filter interactions",
         "iconUrl": "https://storage.googleapis.com/customvisdata/logo.png",
         "resource": {
-          "js": "gs://customvisdata/index.js",
-          "config": "gs://customvisdata/config.json",
-          "css": "gs://customvisdata/index.css"
+          "js": "https://raw.githubusercontent.com/YukiTakamichi/test_geojson_public/refs/heads/main/index.js",
+          "config": "https://raw.githubusercontent.com/YukiTakamichi/test_geojson_public/refs/heads/main/config.json",
+          "css": "https://raw.githubusercontent.com/YukiTakamichi/test_geojson_public/refs/heads/main/index.css"
         }
       }
     ]
